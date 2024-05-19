@@ -1,0 +1,34 @@
+  { "valla_kanyonu":[
+    {
+    "isim" : "Valla Kanyonu",
+    "aciklama": "Küre Dağları Millî Parkı içinde yer alan kanyon 800 m derinliği ile Türkiye'nin en derin kanyonları arasındadır.",
+    "fotourl": "https://raw.githubusercontent.com/Mmrve/mycitty/main/kanyon.png"
+    }],
+    "ilgaz_dagi":[
+    {
+    "isim": "Ilgaz Dağı",
+    "aciklama":"Eşsiz bir doğa manzarası ve huzurlu bir ortam",
+    "fotourl": "https://raw.githubusercontent.com/Mmrve/mycitty/main/ilgaz.png"
+    }],
+    "kel_simit": [
+      {
+        "isim": "Kel Simit",
+        "aciklama": "Kastamonu'nun meşhur simidi, susamsız olarak yapılan ve çıtır çıtır olan lezzetiyle ünlüdür.",
+        "fotourl": "https://github.com/Mmrve/mycitty/raw/main/kelsimit.png"
+      }
+    ],
+    "cekme_helva": [
+      {
+        "isim": "Çekme Helva",
+        "aciklama": "Kastamonu'nun ünlü tatlısı, ağızda dağılan yapısı ile bilinir.",
+        "fotourl": "https://raw.githubusercontent.com/Mmrve/mycitty/main/helva.png"
+      }
+    ],
+    "ilisi_plaji": [
+      {
+        "isim": "İlişi Deniz Manzarası",
+        "aciklama": "Kastamonu'nun Bozkurt ilçesinde eşsiz bir deniz manzarası sunar.",
+        "fotourl": "https://github.com/Mmrve/mycitty/raw/main/ilisi.png"
+      }
+    ]
+  }
