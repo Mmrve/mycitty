@@ -1,0 +1,13 @@
+  { "valla_kanyonu":[
+    {
+    "isim" : "Valla Kanyonu",
+    "aciklama": "Küre Dağları Millî Parkı içinde yer alan kanyon 800 m derinliği ile Türkiye'nin en derin kanyonları arasındadır.",
+    "fotourl": "https://raw.githubusercontent.com/Mmrve/mycitty/main/kanyon.png"
+    }],
+    "ilgaz_dagi":[
+    {
+    "isim": "Ilgaz Dağı",
+    "aciklama":"Eşsiz bir doğa manzarası ve huzurlu bir ortam",
+    "fotourl": "https://raw.githubusercontent.com/Mmrve/mycitty/main/ilgaz.png"
+    }]
+    }
